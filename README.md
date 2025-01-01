@@ -36,8 +36,7 @@ Dieses Repository enthält ein Google Colab-Notebook, das es Nutzern ermöglicht
 
 2. **Notebook in Google Colab öffnen:**
 
-    - Navigiere zu [ger-create-charcard.ipynb](https://github.com/Sakushi-Dev/CharCardv3/blob/main/ger-create-charcard.ipynb).
-    - Klicke auf "Open in Colab", um das Notebook in Google Colab zu öffnen.
+    - Navigiere zu [ger-create-charcard.ipynb](https://colab.research.google.com/github.com/Sakushi-Dev/CharCardv3/blob/main/ger-create-charcard.ipynb).
 
 3. **Charakterdaten eingeben:**
 
