@@ -1,70 +1,71 @@
-# CharCard-Erstellung mit Google Colab
+# CharCard Creation with Google Colab
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## 📖 Beschreibung
+## 📖 Description
 
-Dieses Repository enthält ein Google Colab-Notebook, das es Nutzern ermöglicht, einfach und verständlich **Charakterkarten (CharCards)** in einer eigenen Welt zu erstellen. Das Projekt entstand als persönliche Lernübung, um Programmieren zu lernen und sich intensiv mit Jupyter Notebooks auseinanderzusetzen. Die erstellten Charakterkarten sind kompatibel mit **Silly Tavern** und eignen sich hervorragend für Rollenspiele oder Geschichten.
+This repository contains a Google Colab notebook that allows users to easily and intuitively create **Character Cards (CharCards)** in their own world. The project was created as a personal learning exercise to learn programming and to dive deep into Jupyter Notebooks. The generated character cards are compatible with **Silly Tavern** and are perfect for role-playing or storytelling.
 
-## 🚀 Funktionen
+## 🚀 Features
 
-- **Benutzerfreundlich**: Intuitive Eingabe von Charakterdaten ohne tiefgehende Programmierkenntnisse.
-- **Automatisierte Generierung**: Erstelle ansprechende Charakterkarten mit wenigen Klicks.
-- **Weltintegration**: Integriere deine Charaktere nahtlos in eine eigene Welt.
-- **Kompatibel mit Silly Tavern**: Nutze die erstellten CharCards direkt in Silly Tavern.
+- **User-Friendly**: Intuitive input of character data without deep programming knowledge.
+- **Automated Generation**: Create appealing character cards with just a few clicks.
+- **World Integration**: Seamlessly integrate your characters into your own world.
+- **Silly Tavern Compatible**: Use the created CharCards directly in Silly Tavern.
 
 |![Image1](https://github.com/Sakushi-Dev/CharCardv3/blob/main/charcard_0.png) |![Image2](https://github.com/Sakushi-Dev/CharCardv3/blob/main/charcard_1.png) |
 |:---:|:---:|
 
-## 🛠️ Nutzung
+## 🛠️ Usage
 
-### Voraussetzungen
+### Prerequisites
 
-- Ein Google-Konto, um Google Colab nutzen zu können.
-- Grundkenntnisse in der Nutzung von Jupyter Notebooks sind hilfreich, aber nicht zwingend erforderlich.
+- A Google account to use Google Colab.
+- Basic knowledge of using Jupyter Notebooks is helpful but not mandatory.
 
-### Schritte zur Nutzung
+### Steps for Use
 
-1. **Repository klonen oder herunterladen:**
+1. **Clone or download the repository:**
 
     ```bash
     git clone https://github.com/Sakushi-Dev/CharCardv3.git
     ```
 
-    Alternativ kannst du das Notebook direkt von [hier](https://github.com/Sakushi-Dev/CharCardv3/blob/main/ger-create-charcard.ipynb) herunterladen.
+    Alternatively, you can directly download the notebook from [here](https://github.com/Sakushi-Dev/CharCardv3/blob/main/ger-create-charcard.ipynb).
 
-2. **Notebook in Google Colab öffnen:**
+2. **Open the notebook in Google Colab:**
 
-    - Navigiere zu [ger-create-charcard.ipynb](https://colab.research.google.com/github/Sakushi-Dev/CharCardv3/blob/main/ger-create-charcard.ipynb).
+    - Navigate to [ger-create-charcard.ipynb](https://colab.research.google.com/github/Sakushi-Dev/CharCardv3/blob/main/ger-create-charcard.ipynb).
 
-3. **Charakterdaten eingeben:**
+3. **Enter character data:**
 
-    - Fülle die vorgesehenen Zellen im Notebook mit den gewünschten Informationen zu deinem Charakter und deiner Welt aus.
+    - Fill in the provided cells in the notebook with the desired information about your character and your world.
 
-4. **Notebook ausführen:**
+4. **Run the notebook:**
 
-    - Führe die Zellen Schritt für Schritt aus, um die Charakterkarte automatisch zu generieren.
+    - Execute the cells step by step to automatically generate the character card.
 
-5. **Charakterkarte speichern oder teilen:**
+5. **Save or share the character card:**
 
-    - Lade die erstellte Charakterkarte herunter oder teile sie direkt aus Google Colab.
-    - Integriere die CharCard in **Silly Tavern** gemäß den entsprechenden Anleitungen.
+    - Download the created character card or share it directly from Google Colab.
+    - Integrate the CharCard into **Silly Tavern** following the corresponding instructions.
 
-## 🤝 Mitwirken
+## 🤝 Contribute
 
-Beiträge sind willkommen! Wenn du Verbesserungsvorschläge hast oder neue Funktionen hinzufügen möchtest, folge bitte diesen Schritten:
+Contributions are welcome! If you have suggestions for improvements or want to add new features, please follow these steps:
 
-1. **Fork** das Repository.
-2. **Erstelle** einen neuen Branch (`git checkout -b feature/NeuesFeature`).
-3. **Commit** deine Änderungen (`git commit -m 'Add neues Feature'`).
-4. **Push** zum Branch (`git push origin feature/NeuesFeature`).
-5. **Öffne** einen Pull Request.
+1. **Fork** the repository.
+2. **Create** a new branch (`git checkout -b feature/NewFeature`).
+3. **Commit** your changes (`git commit -m 'Add new feature'`).
+4. **Push** to the branch (`git push origin feature/NewFeature`).
+5. **Open** a pull request.
 
-Bitte achte darauf, dass deine Beiträge den bestehenden Codierungsstandards entsprechen und alle Tests bestehen.
+Please ensure that your contributions adhere to the existing coding standards and pass all tests.
 
-## 📫 Kontakt
+## 📫 Contact
 
-Bei Fragen oder Anregungen kannst du dich gerne an mich wenden:
+If you have any questions or suggestions, feel free to reach out to me:
+
 
 - **GitHub:** [Sakushi-Dev](https://github.com/Sakushi-Dev)
 
