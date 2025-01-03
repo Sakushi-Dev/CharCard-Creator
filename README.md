@@ -1,6 +1,7 @@
 # CharCard-Erstellung mit Google Colab
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
 
 ## 📖 Beschreibung
 
@@ -12,7 +13,6 @@ Dieses Repository enthält ein Google Colab-Notebook, das es Nutzern ermöglicht
 - **Automatisierte Generierung**: Erstelle ansprechende Charakterkarten mit wenigen Klicks.
 - **Weltintegration**: Integriere deine Charaktere nahtlos in eine eigene Welt.
 - **Kompatibel mit Silly Tavern**: Nutze die erstellten CharCards direkt in Silly Tavern.
-- **Lernressource**: Ideal zum Erlernen der Grundlagen von Jupyter Notebooks und Programmierung.
 
 |![Image1](https://github.com/Sakushi-Dev/CharCardv3/blob/main/charcard_0.png) |![Image2](https://github.com/Sakushi-Dev/CharCardv3/blob/main/charcard_1.png) |
 |:---:|:---:|
@@ -50,15 +50,6 @@ Dieses Repository enthält ein Google Colab-Notebook, das es Nutzern ermöglicht
 
     - Lade die erstellte Charakterkarte herunter oder teile sie direkt aus Google Colab.
     - Integriere die CharCard in **Silly Tavern** gemäß den entsprechenden Anleitungen.
-  
-## 📚 Beispiele
-
-Hier sind einige Anwendungsbeispiele für die Nutzung dieses Notebooks:
-
-- **Rollenspiele:** Erstelle detaillierte Charakterprofile für deine RPG-Abenteuer.
-- **Schreiben:** Entwickle umfassende Hintergrundgeschichten und Charaktereigenschaften für deine Figuren.
-- **Spieleentwicklung:** Integriere systematisch erstellte Charakterkarten in deine eigenen Spieleprojekte.
-- **Weltaufbau:** Entwickle eine konsistente Welt mit verknüpften Charakteren.
 
 ## 🤝 Mitwirken
 
@@ -71,10 +62,6 @@ Beiträge sind willkommen! Wenn du Verbesserungsvorschläge hast oder neue Funkt
 5. **Öffne** einen Pull Request.
 
 Bitte achte darauf, dass deine Beiträge den bestehenden Codierungsstandards entsprechen und alle Tests bestehen.
-
-## 📄 Lizenz
-
-Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
 
 ## 📫 Kontakt
 
