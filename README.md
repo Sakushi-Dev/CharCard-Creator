@@ -1,7 +1,6 @@
 # CharCard-Erstellung mit Google Colab
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## 📖 Beschreibung
 
