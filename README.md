@@ -31,7 +31,7 @@ This repository contains a Google Colab notebook that allows users to easily and
     git clone https://github.com/Sakushi-Dev/CharCardv3.git
     ```
 
-    Alternatively, you can directly download the notebook from [here](https://github.com/Sakushi-Dev/CharCardv3/blob/main/create-charcard.ipynb).
+    Alternatively, you can directly download the notebook from [here](https://github.com/Sakushi-Dev/CharCardv3/blob/main/Notebook/create-charcard.ipynb).
 
 2. **Open the notebook in Google Colab:**
 
