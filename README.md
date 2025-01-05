@@ -1,7 +1,7 @@
 # CharCard Creation with Google Colab
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![OPEN IN COLAB](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakushi-Dev/CharCard-Creator/Notebook/create-charcard.ipynb)
+[![OPEN IN COLAB](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakushi-Dev/blob/main/CharCard-Creator/Notebook/create-charcard.ipynb)
 
 ## Description
 
