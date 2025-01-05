@@ -13,7 +13,7 @@ This repository contains a Google Colab notebook that allows users to easily and
 - **World Integration**: Seamlessly integrate your characters into your own world.
 - **Silly Tavern Compatible**: Use the created CharCards directly in Silly Tavern.
 
-|![Image1](https://github.com/Sakushi-Dev/CharCardv3/blob/main/charcard_0.png) |![Image2](https://github.com/Sakushi-Dev/CharCardv3/blob/main/charcard_1.png) |
+|![Image1](https://github.com/Sakushi-Dev/CharCard-Creator/blob/main/charcard_0.png) |![Image2](https://github.com/Sakushi-Dev/CharCard-Creator/blob/main/charcard_1.png) |
 |:---:|:---:|
 
 ## 🛠️ Usage
@@ -31,11 +31,11 @@ This repository contains a Google Colab notebook that allows users to easily and
     git clone https://github.com/Sakushi-Dev/CharCardv3.git
     ```
 
-    Alternatively, you can directly download the notebook from [here](https://github.com/Sakushi-Dev/CharCardv3/blob/main/Notebook/create-charcard.ipynb).
+    Alternatively, you can directly download the notebook from [here](https://github.com/Sakushi-Dev/CharCard-Creator/blob/main/Notebook/create-charcard.ipynb).
 
 2. **Open the notebook in Google Colab:**
 
-    - Navigate to [create-charcard.ipynb](https://colab.research.google.com/github/Sakushi-Dev/CharCardv3/blob/main/Notebook/create-charcard.ipynb).
+    - Navigate to [create-charcard.ipynb](https://colab.research.google.com/github/Sakushi-Dev/CharCard-Creator/blob/main/Notebook/create-charcard.ipynb).
 
 3. **Enter character data:**
 
